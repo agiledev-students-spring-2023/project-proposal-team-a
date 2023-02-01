@@ -23,3 +23,7 @@ Create a website where user creates a profile including list of interests and ho
 - Create a group to meet with others of matching hobby
 - Suggestions of groups created by others with a matching hobby (ex. soccer, book club...)
 - Ability to see and interact with other people's profiles, messaging, ... when you have similar interests.
+
+### Scope
+
+I believe the main, already detailed parts of this project could be feasibly completed with 4-6 given the time constraint. Furthermore I believe the project lends itself well to user stories, and seperating the work among developers.
